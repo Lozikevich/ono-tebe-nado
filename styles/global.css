@@ -2,11 +2,12 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  
 }
 
 body {
-  min-width: 1440px;
-  max-width: 1440px;
+  min-width: 1110px;
+  /*max-width: 1440px;*/
   margin: auto;
   font-family: Raleway, sans-serif;
 }
